@@ -1,0 +1,172 @@
+header{
+    width: 100%;
+    height: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content:left;
+    align-items:inherit;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.pstp{
+  margin: 20px 0px 5px  10px;
+  font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+.logoweb{
+  width: 150px;
+  height: 100px;
+}
+.kep{
+  margin: 0px 0px 0px  10px;
+  font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  opacity: 80%;
+}
+
+ 
+  main {
+    margin-top: -10px;
+    float: left;
+    width: 45%;
+    height: 500px;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  }
+  content{
+ 
+    float: right;
+   
+    width: 55%;
+    height: 500px;
+    padding: 80px;
+    color: rgb(255, 255, 255);
+
+    background-size: contain ;
+    background-repeat: no-repeat;
+    margin-bottom: -180px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  }
+
+  .link{
+    margin:37vh 0px 0px  10px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    opacity: 80%;
+}
+.link2{
+    display: inline;
+}
+.row{
+    margin-left: 20px;
+    display: inline;
+}
+
+.img1{
+    margin-left: -13px;
+    margin-right: 10px;
+    width: 90px;
+    height: 30px;
+}
+.img2{
+  margin-right: 10px;
+    width: 30px;
+    height: 30px;
+}
+.img3{
+   margin-left: 5px;
+    width: 75px;
+    height: 33px;
+}
+
+.border{
+  border: 2px solid gray;
+  border-radius: 15px;
+  margin-right: 0%;
+}
+.sosmed{
+
+ margin-right: 10px;
+  margin-left: 10px;
+  display: inline-block;
+  font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  
+}
+.img4{
+  font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  width: 20px;
+  height: 20px;
+ 
+}
+.sosial{
+  margin:20px 0px 0px  px;
+  font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  opacity: 80%;
+}
+
+.lingkaran{
+  margin-top: -60px;
+  margin-left: 80px;
+}
+.boxs{
+  color: white;
+  margin-right: 40px;
+  display: inline-block;
+  background-color: rgb(95, 93, 93, 0.25) ;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  width: 150px;
+  height:160px;
+
+}
+.box {
+  background-color: rgb(165, 164, 164) ;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+  
+}
+
+.ikon1 {
+margin-top: 20px;
+  width: 90px;
+  height:90px;
+}
+
+.ikon2 {
+  width: 90px;
+  height:90px;
+}
+
+.ikon3 {
+  width: 90px;
+  height:90px;
+}
+.ikon4 {
+  width: 90px;
+  height:90px;
+}
+.ikon5 {
+  width: 90px;
+  height:90px;
+}
+.bk1{
+  margin-top: -85%;
+  margin-left: 20%;
+ width: 800px;
+ height: 800px;
+ background-color: rgb(13, 138, 117);
+ border-radius: 50%;
+ display: flex;
+ justify-content: left;
+
+}
+.bk2{
+  margin-top: 48vh;
+  margin-left: -45%;
+  width:180vh;
+  justify-content: left;
+  height: 80%;
+
+
+  }
+
+  
